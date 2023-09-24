@@ -1,0 +1,21 @@
+<phone>
+phone_table s1="1"
+<name>samsung</name>
+<id>11</id>
+<status>1<status>
+<unit_price>35000</unit_price>
+<stock>50</stock>
+<phone>
+phone_table s2="2"
+<name>htc</name>
+<id>20</id>
+<status>o</status>
+<unit_price>65300<unit_price>
+<stock>35</stock>
+<phone>
+phone_table s3="3"
+<name>nokia</name>
+<id>23</id>
+<status>1</status>
+<unit_price>25100></unit_price>
+<stock>1000</stock>

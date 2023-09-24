@@ -1,0 +1,21 @@
+<information>
+information_table s1="1"
+<name>john_carter</name>
+<sl_no>23</sl_no>
+<admission_date>25</admission_date>
+<admission_month>12</admission_month>
+<admission_year>2015</admission_year>
+<information>
+informationtable s2="2"
+<name>bob_marshal</name>
+<sl_no>29</sl_no>
+<admission_date>13</admission_date>
+<admission_month>1</admission_month>
+<admission_year>1999</admission_year>
+<information>
+information_table 23="3"
+<name>clark_kent</name>
+<sl_no>35</sl_no>
+<admission_date>17</admission_date>
+<admission_month>6<admission_month>
+<admission_year>2005<admission_year>

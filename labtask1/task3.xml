@@ -1,0 +1,21 @@
+<information>
+information_table s1="1"
+<name>john_dia</name>
+<id>1</id>
+<address>H#38,r#3,Banani</address>
+<departmentt>sales</department>
+<salary>20000</salary>
+<information>
+information_table s2="2"
+<name>mark_jukerbarg</name>
+<id>2</id>
+<.address>flat#A1,h#20,r#18,mirpur,dhaka</address>
+<depeartment>account</depeartment>
+<salary>12000</salary>
+<information>
+information_table s3="3"
+<name>ala_voske</name>
+<id>3</id>
+<address>h#38,r#3,motijheel</address>
+<depeartment>human _resource</deperatment>
+<salary>30000</salary>
